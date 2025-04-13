@@ -1,5 +1,7 @@
 # 📦 Transfer-learning-image-classifier
 
+This project uses ResNet50 with transfer learning to classify CIFAR-10 images, achieving high accuracy through techniques like fine-tuning and data augmentation.
+
 ## 🧠 Introduction
 
 This project presents two main approaches to classify images in the CIFAR-10 dataset:
